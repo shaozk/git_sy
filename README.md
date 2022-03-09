@@ -8,6 +8,10 @@ Repo Owner: Jiangmmh, shaozk.
 
 shaozk: 有人吗？
 shaozk: 这个repo有人吗？
+<<<<<<< HEAD
 shaozk: 。。。
 shaozk: What are you doing?
+=======
+shaozk: 有人在等伞，而我在等雨停
+>>>>>>> change_site
 

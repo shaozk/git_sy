@@ -1,0 +1,13 @@
+time: 2022/3/20
+job:
+    * init shaozk's workspace
+summary:
+    * This is my first attempt to write a log in English, It will be very hard I hope I can insist, although it may not make sense.
+
+------
+
+time: 2022/3/22
+job:
+    * finish bf.cc
+summary:
+    * Use brute force algorithm to complete string pattern matching, in which two methods are implementd.

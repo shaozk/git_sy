@@ -1,20 +1,4 @@
-# HnistAlgorithmGroup
+## Git练习与测试
 
-This Repo is About Some algorithm notes that are wrote by two Hnist Students.
+1 ```git reset --soft HEAD~2```
 
-Repo Owner: Jiangmmh, shaozk.
-
-
-
-2022/3/9  
-shaozk: so, is anybody in the repo?
-
-
-  
-2022/3/10
-shaozk: some one waiting umbrella.
-
-
-  
-2022/3/31
-shaozk: pat
